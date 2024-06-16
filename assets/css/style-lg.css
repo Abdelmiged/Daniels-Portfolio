@@ -1,0 +1,15 @@
+.container {
+    max-width: 970px;
+}
+
+/* Navigation Bar */
+.navbar .nav-link {
+    font-size: .875rem;
+}
+/* End Navigation Bar */
+
+/* About Section */
+.hero-image-container {
+    margin-bottom: 1.875rem;
+}
+/* End About Section */

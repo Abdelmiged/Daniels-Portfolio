@@ -1,0 +1,15 @@
+.container {
+    max-width: 1170px;
+}
+
+/* Header Section */
+
+.home-caption-container h1 span {
+    font-size: 60px;
+}
+
+.type-writer::before {
+    height: 70px;
+}
+
+/* End Header Section */

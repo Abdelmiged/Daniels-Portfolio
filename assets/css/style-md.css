@@ -1,0 +1,42 @@
+.container {
+    max-width: 750px;
+}
+
+/* Navigation Bar */
+
+.navbar-collapse {
+    background-color: transparent;
+    margin-right: 0;
+    margin-left: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.nav-item {
+    margin: 1.25rem 0.5rem 0;
+}
+
+.navbar .nav-link {
+    --bs-navbar-active-color: white;
+}
+
+.navbar .nav-link::after {
+    --nav-link-underline-bg-color: white;
+}
+
+/* End Navigation Bar */
+
+/* Header Section */
+
+.home-caption-container h1 span {
+    font-size: 44px;
+}
+
+
+.type-writer::before {
+    height: 50px;
+    right: 0;
+}
+
+/* End Header Section */
